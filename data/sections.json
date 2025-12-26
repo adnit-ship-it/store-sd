@@ -104,7 +104,7 @@
           "color": "bodyColor",
           "show": true
         },
-        "marqueeSpeed": 200,
+        "marqueeSpeed": 1,
         "logos": [
           {
             "src": "/assets/images/clients/bloomberg.png",
